@@ -1,0 +1,12 @@
+body{
+    background: url(./image/pngtree-green-hemp-frame-cannabis-marijuana-picture-image_1885406.jpg) no-repeat;
+    background-size: cover;
+}
+
+
+.russ {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    transform: translateY(300px);
+}
